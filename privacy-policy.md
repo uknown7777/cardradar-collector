@@ -128,9 +128,12 @@ If you believe that a child has provided personal information improperly, please
 
 Account and collection information may be retained while your CardRadar Collector account remains active.
 
-Users may request deletion of their account and associated cloud data.
+Users can permanently delete their CardRadar Collector account from within the app by opening Profile and selecting DELETE ACCOUNT.
 
-An in-app account deletion option may also be provided before public release where required by platform rules.
+Account deletion removes the authentication account, the associated CardRadar Collector user record, the user's cloud-saved collection data, and locally cached collection data associated with that account on the device.
+
+Additional account deletion information is available at:
+https://uknown7777.github.io/cardradar-collector/delete-account/
 
 ## 11. Changes to This Privacy Policy
 

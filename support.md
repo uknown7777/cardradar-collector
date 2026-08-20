@@ -85,11 +85,16 @@ CardRadar Collector does not control third-party marketplaces.
 
 ### Can I delete my account?
 
-Users may request deletion of their CardRadar Collector account and associated cloud data.
+Users can permanently delete their CardRadar Collector account directly in the app:
 
-An in-app account deletion option may also be provided before public release where required by platform rules.
+- Open Profile
+- Select DELETE ACCOUNT
+- Confirm the deletion
 
-For account deletion requests, contact support using the email below.
+More information is available at:
+https://uknown7777.github.io/cardradar-collector/delete-account/
+
+If you cannot access the app, contact support using the email below.
 
 ## Technical Support
 
