@@ -145,4 +145,4 @@ The latest version will display its effective date at the top of this document.
 
 For privacy questions, support, or data deletion requests, contact:
 
-sotirisraptis123@gmail.com
+cardradarcollector@gmail.com

@@ -120,4 +120,4 @@ Use of CardRadar Collector is subject to the CardRadar Collector Terms of Use.
 
 For support, account questions, privacy questions, or account deletion requests:
 
-sotirisraptis123@gmail.com
+cardradarcollector@gmail.com

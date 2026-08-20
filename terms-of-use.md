@@ -175,4 +175,4 @@ Continued use after an update may constitute acceptance of the revised Terms whe
 
 For questions about these Terms or CardRadar Collector, contact:
 
-sotirisraptis123@gmail.com
+cardradarcollector@gmail.com
